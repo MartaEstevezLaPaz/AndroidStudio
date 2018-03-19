@@ -64,7 +64,7 @@
             android:layout_width="193dp"
             android:layout_height="wrap_content"
             android:onClick="registrarse"
-            android:text="registro" />
+            android:text="registrito" />
 
         <Button
             android:id="@+id/button4"
